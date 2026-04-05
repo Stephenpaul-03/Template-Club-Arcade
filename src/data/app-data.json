@@ -1,0 +1,360 @@
+{
+  "about": {
+    "sections": [
+      {
+        "id": "who-we-are",
+        "title": "Who We Are",
+        "paragraphs": [
+          "RetroByte Studio exists because we couldn’t let the good stuff fade out. The kind of games you don’t really “learn”, you just get — the ones your hands remember before your brain does. We’re a small team chasing that exact feeling, not trying to reinvent classics or strip them down, but bringing them forward in a way that actually fits today.",
+          "We’re not here to redesign the soul out of these games. The rules, pacing, and rhythm stay intact — that’s the whole point. What we do is refine everything around it so it feels natural on modern hardware. Same experience at the core, just without the rough edges that used to get in the way."
+        ]
+      },
+      {
+        "id": "what-we-do",
+        "title": "What We Do",
+        "paragraphs": [
+          "We take classic game ideas — maze chasers, block puzzlers, arcade shooters, platformers — and rebuild them so they hit instantly. No confusion, no friction, no awkward onboarding. You launch the game and you’re already playing, with everything behaving exactly the way you expect it to.",
+          "At the same time, we layer in modern improvements where they actually make sense. Leaderboards, co-op modes, ghost runs, accessibility options — features that enhance the experience without overwhelming it. The focus is always on clarity and replayability, not complexity for the sake of it."
+        ]
+      },
+      {
+        "id": "how-we-build",
+        "title": "How We Build",
+        "paragraphs": [
+          "Everything starts with feel. Movement timing, hit windows, camera rhythm — all the small details that make a game satisfying to play. That’s the part we protect above everything else, because once that’s off, nothing else matters.",
+          "From there, we rebuild the surrounding systems — visuals, UI, controls, tutorials, and performance. These are the parts that should evolve with time, and we treat them like a proper upgrade layer. If something makes the experience smoother without changing its core identity, it stays. If it doesn’t, it goes."
+        ]
+      },
+      {
+        "id": "why-started",
+        "title": "Why We Started",
+        "paragraphs": [
+          "A lot of classic games are stuck behind unnecessary friction — old hardware, awkward ports, and menus that fight you before the fun even starts. You end up spending more time adjusting than actually playing, and that takes away from what made those games special in the first place.",
+          "We started RetroByte Studio to fix that. For us, it’s about respect — respecting the original design, respecting the player’s time, and respecting modern expectations like accessibility and smooth performance. A visual upgrade isn’t enough; the real improvement is removing friction while keeping the same heartbeat."
+        ]
+      },
+      {
+        "id": "where-headed",
+        "title": "Where We’re Headed",
+        "paragraphs": [
+          "Right now, we’re building what we call the Arcade Shelf — a collection of small, focused games designed for quick sessions, clean gameplay loops, and instant restarts. The kind of games that fit easily into your time but are hard to put down once you start.",
+          "Alongside that, we’re working on better practice tools like ghost runs, checkpoints, and drills that help players improve naturally. Long-term, the goal is to create a shared experience across platforms, where your progress, unlocks, and best runs follow you everywhere without interruption."
+        ]
+      }
+    ]
+  },
+  "partners": [
+    {
+      "CompanyName": "PC Editions",
+      "Description": "Precision and performance first — Steam-first builds tuned for responsiveness, full controller support, and ultrawide options, with cloud saves and achievements where they stay friction-free.",
+      "highlightColor": "#4A6FA5",
+      "backgroundColor": "#F8F5F1",
+      "textColor": "#1B1918",
+      "partnerLink": "https://store.steampowered.com",
+      "showcaseimages": ["Partner01Logo01", "Partner01Logo02"]
+    },
+    {
+      "CompanyName": "Console Editions",
+      "Description": "Designed for the couch — optimized for PlayStation and Xbox with instant boot, fast restarts, and intuitive controller layouts for a clear, comfortable living-room arcade feel.",
+      "highlightColor": "#9B3B3B",
+      "backgroundColor": "#F8F5F1",
+      "textColor": "#1B1918",
+      "partnerLink": "https://www.playstation.com",
+      "showcaseimages": ["Partner01Logo01", "PartnerPHLogo"]
+    },
+    {
+      "CompanyName": "Mobile Ports",
+      "Description": "Built for quick sessions — touch-first mobile versions with responsive input zones, optional one-handed play, haptics, smart scaling, and offline support without compromising clarity.",
+      "highlightColor": "#3C3C3C",
+      "backgroundColor": "#F8F5F1",
+      "textColor": "#1B1918",
+      "partnerLink": "https://play.google.com",
+      "showcaseimages": ["Partner01Logo01", "PartnerPHLogo"]
+    },
+    {
+      "CompanyName": "Deluxe Editions",
+      "Description": "For the curious players — GOG editions that bundle soundtracks, art packs, and dev notes explaining the feel decisions behind timing, feedback, and visual clarity.",
+      "highlightColor": "#C2A04D",
+      "backgroundColor": "#F8F5F1",
+      "textColor": "#1B1918",
+      "partnerLink": "https://www.gog.com",
+      "showcaseimages": ["Partner01Logo01", "Partner01Logo02"]
+    }
+  ],
+  "achievements": [
+    {
+      "src": "DevTeam[0]",
+      "alt": "Pac-Man",
+      "title": "Pac-Man",
+      "desc": "A maze-chaser recoat — a readability-first Pac-Man modernization that keeps the iconic chase rhythm intact while improving responsiveness, cleaner UI, and faster restarts so decisions stay clear under pressure.",
+      "badge1": "Maze",
+      "badge2": "Recoat #01"
+    },
+    {
+      "src": "DevTeam[1]",
+      "alt": "Tetris",
+      "title": "Tetris",
+      "desc": "A falling-block puzzle rework — tighter input, clearer previews, and smoother stacking feedback to keep players in flow, with optional practice tools that help learning without losing the original’s simplicity.",
+      "badge1": "Puzzle",
+      "badge2": "Recoat #02"
+    },
+    {
+      "src": "DevTeam[0]",
+      "alt": "Space Invaders",
+      "title": "Space Invaders",
+      "desc": "A single-screen shooter recoat — improved visual hierarchy and responsiveness so patterns and projectiles stay readable as intensity rises, with subtle assists that broaden accessibility without changing pacing.",
+      "badge1": "Shooter",
+      "badge2": "Recoat #03"
+    },
+    {
+      "src": "DevTeam[1]",
+      "alt": "Breakout",
+      "title": "Breakout",
+      "desc": "A physics-driven arcade rework — refined paddle response, collisions, and feedback for predictable, satisfying angles, backed by clearer visuals so speed and impact are easy to read.",
+      "badge1": "Arcade",
+      "badge2": "Recoat #04"
+    },
+    {
+      "src": "DevTeam[0]",
+      "alt": "Snake",
+      "title": "Snake",
+      "desc": "A minimalist survival loop recoat — tighter controls and clearer spatial cues that improve planning as pace ramps up, with small QoL tweaks that help readability without removing tension.",
+      "badge1": "Survival",
+      "badge2": "Recoat #05"
+    },
+    {
+      "src": "DevTeam[1]",
+      "alt": "Pong",
+      "title": "Pong",
+      "desc": "A foundational system recoat — precision-focused tuning to paddle movement, ball physics, and feedback so each hit feels intentional and consistent, with modern display clarity while keeping mechanics unchanged.",
+      "badge1": "Classic",
+      "badge2": "Recoat #06"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Instant Restart Loop",
+      "src": "projectImage[0]",
+      "ctaGithubLink": "",
+      "badges": ["UX", "Flow"],
+      "content": "Flow over friction — instant retries that drop you back into gameplay without menus or downtime, keeping sessions continuous and improvement-focused."
+    },
+    {
+      "id": "2",
+      "title": "Feel-First Timing",
+      "src": "projectImage[1]",
+      "ctaGithubLink": "",
+      "badges": ["Gameplay", "Precision"],
+      "content": "Consistency you can trust — timing and collision rules tuned to respond predictably so outcomes feel fair and repeatable across devices."
+    },
+    {
+      "id": "3",
+      "title": "Modern Readability Pass",
+      "src": "projectImage[2]",
+      "ctaGithubLink": "",
+      "badges": ["UI", "Clarity"],
+      "content": "Clarity under pressure — cleaner effects, better contrast, and reduced visual noise so the important signals stand out during fast play."
+    },
+    {
+      "id": "4",
+      "title": "Practice Tools",
+      "src": "projectImage[3]",
+      "ctaGithubLink": "",
+      "badges": ["Training", "Speedrun"],
+      "content": "Learn without breaking flow — ghosts, checkpoints, and targeted drills integrated into gameplay so players improve specific skills without restarting entire runs."
+    },
+    {
+      "id": "5",
+      "title": "Input & Remap Layer",
+      "src": "projectImage[4]",
+      "ctaGithubLink": "",
+      "badges": ["Controls", "Accessibility"],
+      "content": "Control that adapts to you — full remapping and adaptive layouts across controller/keyboard/touch, with accessibility options that remove barriers without changing the challenge."
+    },
+    {
+      "id": "6",
+      "title": "Style-Safe Visual Upgrade",
+      "src": "projectImage[5]",
+      "ctaGithubLink": "",
+      "badges": ["Art", "Polish"],
+      "content": "New polish, same identity — modernized lighting, animation, and effects that boost clarity while preserving classic silhouettes and pacing."
+    },
+    {
+      "id": "7",
+      "title": "Local Party First",
+      "src": "projectImage[6]",
+      "ctaGithubLink": "",
+      "badges": ["Co-op", "Versus"],
+      "content": "Designed for real-world play — quick co-op and versus with minimal setup and clear UI so multiplayer is immediate and social."
+    },
+    {
+      "id": "8",
+      "title": "Smart Difficulty Options",
+      "src": "projectImage[7]",
+      "ctaGithubLink": "",
+      "badges": ["Assist", "Challenge"],
+      "content": "Challenge that scales with you — assist toggles and scalable curves that welcome new players while preserving a true mode for purists."
+    },
+    {
+      "id": "9",
+      "title": "Community Hooks",
+      "src": "projectImage[8]",
+      "ctaGithubLink": "",
+      "badges": ["Mods", "UGC"],
+      "content": "Extend the experience — shareable challenges and seeds plus light customization that boosts replayability without breaking the intended feel."
+    },
+    {
+      "id": "10",
+      "title": "Cross-Device Profile",
+      "src": "projectImage[9]",
+      "ctaGithubLink": "",
+      "badges": ["Cloud", "Progress"],
+      "content": "Your progress, everywhere — a unified profile that carries unlocks and best runs across devices for seamless continuity."
+    }
+  ],
+  "leadMembers": {
+    "tabs": [
+      {"key": "directors", "title": "Directors", "icon": "Crown", "color": "blue"},
+      {"key": "design", "title": "Design", "icon": "Palette", "color": "purple"},
+      {"key": "dev", "title": "Development", "icon": "Code", "color": "green"},
+      {"key": "art", "title": "Art", "icon": "Image", "color": "yellow"},
+      {"key": "audio", "title": "Audio", "icon": "Music", "color": "cyan"},
+      {"key": "qa", "title": "QA", "icon": "Check", "color": "orange"},
+      {"key": "producers", "title": "Producers", "icon": "Users", "color": "pink"},
+      {"key": "community", "title": "Community", "icon": "Heart", "color": "red"},
+      {"key": "accessibility", "title": "Accessibility", "icon": "Search", "color": "cyan"}
+    ],
+    "teamCards": {
+      "directors": [
+        {"src": "PHMan", "alt": "Studio Director", "name": "Avery Cole", "role": "Creative Director", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PHWoman", "alt": "Studio Director", "name": "Sienna Brooks", "role": "Studio Director", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "design": [
+        {"src": "PH_Woman", "alt": "Lead Designer", "name": "Mina Park", "role": "Lead Designer", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PH_Man", "alt": "Systems Designer", "name": "Eli Navarro", "role": "Systems Designer", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "dev": [
+        {"src": "PHMan", "alt": "Technical Lead", "name": "Rowan Tate", "role": "Technical Lead", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PHWoman", "alt": "Gameplay Engineer", "name": "Priya Singh", "role": "Gameplay Engineer", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "art": [
+        {"src": "PH_Woman", "alt": "Art Director", "name": "Nora Wren", "role": "Art Director", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PH_Man", "alt": "UI Artist", "name": "Lucas Reed", "role": "UI Artist", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "audio": [
+        {"src": "PHMan", "alt": "Audio Lead", "name": "Jules Hart", "role": "Audio Lead", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PHWoman", "alt": "Sound Designer", "name": "Maya Chen", "role": "Sound Designer", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "qa": [
+        {"src": "PH_Woman", "alt": "QA Lead", "name": "Samira Lane", "role": "QA Lead", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PH_Man", "alt": "QA Engineer", "name": "Owen Pierce", "role": "QA Engineer", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "producers": [
+        {"src": "PHMan", "alt": "Producer", "name": "Kai Morgan", "role": "Producer", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PHWoman", "alt": "Associate Producer", "name": "Lena Ortiz", "role": "Associate Producer", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "community": [
+        {"src": "PH_Woman", "alt": "Community Lead", "name": "Iris Vega", "role": "Community Lead", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PH_Man", "alt": "Community Manager", "name": "Jordan Blake", "role": "Community Manager", "githubUrl": "", "linkedinUrl": ""}
+      ],
+      "accessibility": [
+        {"src": "PHMan", "alt": "Accessibility Lead", "name": "Devon Grey", "role": "Accessibility Lead", "githubUrl": "", "linkedinUrl": ""},
+        {"src": "PHWoman", "alt": "Accessibility Designer", "name": "Amara Patel", "role": "Accessibility Designer", "githubUrl": "", "linkedinUrl": ""}
+      ]
+    },
+    "content": {
+      "directors": {
+        "title": "DIRECTORS",
+        "tagline": "Setting the direction, protecting the vision",
+        "paragraphs": [
+          "Directors define what each recoat should preserve and what can evolve. They focus on maintaining the original gameplay identity while guiding decisions around design, pacing, and overall experience.",
+          "Their role is to make sure every project feels intentional. If something improves clarity or flow without breaking the core, it stays. If it drifts too far from the original feel, it gets cut."
+        ],
+        "mobileLines": ["Protect the vision.", "Keep the feel.", "Cut the drift."]
+      },
+      "design": {
+        "title": "DESIGN",
+        "tagline": "Shaping how it plays",
+        "paragraphs": [
+          "The design team focuses on gameplay structure, balance, and player interaction. They break down classic systems and rebuild them in ways that feel intuitive without losing depth.",
+          "Their work ensures that every decision the player makes feels meaningful, readable, and consistent from start to finish."
+        ],
+        "mobileLines": ["Balance & flow.", "Intuitive systems.", "Meaningful choices."]
+      },
+      "dev": {
+        "title": "DEVELOPMENT",
+        "tagline": "Making it responsive",
+        "paragraphs": [
+          "Development is responsible for turning design into something that feels smooth and reliable. Input handling, performance, and system behavior are all tuned to make sure the game responds exactly when and how it should.",
+          "The focus is on consistency across devices, ensuring that the experience feels the same whether you’re on desktop, console, or mobile."
+        ],
+        "mobileLines": ["Low latency.", "Consistent behavior.", "Smooth everywhere."]
+      },
+      "art": {
+        "title": "ART",
+        "tagline": "Clarity over noise",
+        "paragraphs": [
+          "The art team works on modernizing visuals without overwhelming the player. Every element is designed to be readable, with attention to contrast, motion, and hierarchy.",
+          "The goal is not to make things flashy, but to make them understandable at a glance — especially during fast gameplay."
+        ],
+        "mobileLines": ["Readable visuals.", "Strong hierarchy.", "Clean motion."]
+      },
+      "audio": {
+        "title": "AUDIO",
+        "tagline": "Feedback you can feel",
+        "paragraphs": [
+          "Audio design reinforces player actions through clear and responsive feedback. Every sound is tuned to match timing and impact, helping players understand what’s happening without relying only on visuals.",
+          "It’s subtle, but essential — good audio makes the game feel alive and responsive."
+        ],
+        "mobileLines": ["Timing-first cues.", "Clear feedback.", "Alive feel."]
+      },
+      "qa": {
+        "title": "QA",
+        "tagline": "Nothing feels “off”",
+        "paragraphs": [
+          "QA focuses on identifying inconsistencies in gameplay feel, timing, and behavior. They test how systems hold up under real play conditions and make sure everything behaves as expected.",
+          "Their job is to catch the small issues that can break immersion, ensuring the final experience feels polished and reliable."
+        ],
+        "mobileLines": ["Catch the off.", "Keep it fair.", "Ship polish."]
+      },
+      "producers": {
+        "title": "PRODUCERS",
+        "tagline": "Keeping things moving",
+        "paragraphs": [
+          "Producers coordinate across teams to keep projects on track and aligned. They balance timelines, priorities, and scope to make sure ideas actually turn into finished experiences.",
+          "They make sure nothing gets stuck and everything moves forward with purpose."
+        ],
+        "mobileLines": ["Align teams.", "Manage scope.", "Ship on time."]
+      },
+      "community": {
+        "title": "COMMUNITY",
+        "tagline": "Connecting players and ideas",
+        "paragraphs": [
+          "The community team focuses on how players interact with the experience beyond gameplay. They gather feedback, observe behavior, and help shape future improvements based on real usage.",
+          "Their role keeps the work grounded in how people actually play, not just how it’s designed."
+        ],
+        "mobileLines": ["Listen & learn.", "Share challenges.", "Shape updates."]
+      },
+      "accessibility": {
+        "title": "ACCESSIBILITY",
+        "tagline": "Designed for everyone",
+        "paragraphs": [
+          "Accessibility ensures that systems can be experienced by as many players as possible. From control customization to visual adjustments, this team works to remove barriers without compromising gameplay.",
+          "Their focus is on inclusion — making sure the experience remains playable, flexible, and fair."
+        ],
+        "mobileLines": ["Remap & adjust.", "Remove barriers.", "Fair for all."]
+      }
+    }
+  },
+  "footer": {
+    "company": "RetroByte Studio",
+    "tagline": "Old rules. New polish.",
+    "copyright": "© 2026 RetroByte Studio. All rights reserved.",
+    "links": {
+      "privacy": "https://example.com/privacy",
+      "terms": "https://example.com/terms",
+"contact":"mailto:Stephenpaul4040@gmail.com"
+    }
+  }
+}
